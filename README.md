@@ -25,7 +25,7 @@ This project demonstrates my abilities in backend development, secure data manag
 
 ## Technologies Used
 - **Programming Languages**: C#
-- **Framework**: .net framework
+- **Framework**: .net framework (Windows Forms)
 - **Architecture**: 3-Tier
 - **Database**: MS SQL Server, ADO.NET
 
